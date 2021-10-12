@@ -1,4 +1,7 @@
 #include "lists.h"
+#include <stdio.h>
+#include <stdlib.h>
+
 
 /**
  * reverse_listint - function to reverse a list
